@@ -3,5 +3,12 @@
   "appFolders": [],
   "testFolders": [],
   "bcptTestFolders": [],
-  "artifact": "https://bcartifacts.azureedge.net/sandbox/23.0.12034.13450/us"
+  "artifact": "https://bcartifacts.azureedge.net/sandbox/23.0.12034.13450/us",
+  "appDependencyProbingPaths": [
+    {
+      "repo": ".",
+      "release_status": "include",
+      "projects": "W1"
+    }
+  ]
 }
