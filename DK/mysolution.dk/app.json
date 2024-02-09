@@ -10,7 +10,14 @@
   "help": "",
   "url": "",
   "logo": "",
-  "dependencies": [],
+  "dependencies": [
+    {
+      "id": "010c5ca4-eae3-48d2-9f5a-33ad58852922",
+      "name": "mysolution.w1",
+      "publisher": "Ashay",
+      "version": "1.0.0.0"
+    }    
+  ],
   "screenshots": [],
   "platform": "1.0.0.0",
   "application": "22.0.0.0",
